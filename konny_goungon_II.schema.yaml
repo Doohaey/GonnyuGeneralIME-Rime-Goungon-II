@@ -2,7 +2,7 @@
 schema:
   schema_id: konny_goungon_II
   name: 赣语－高安（二式·组合式）
-  version: "1.3.0"
+  version: "1.3.1"
   dependencies:
     - konny_goungon_II_nowenbai
     - konny_goungon_II_gan

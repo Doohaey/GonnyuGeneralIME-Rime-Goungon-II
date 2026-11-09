@@ -1,7 +1,7 @@
 schema:
   schema_id: konny_goungon_II_old_rel_gan_nowenbai
   name: goungon
-  version: "1.3.0"
+  version: "1.3.1"
 translator:
   dictionary: gannyu_goungon_old_rel
   prism: konny_goungon_II_old_rel_gan_nowenbai
