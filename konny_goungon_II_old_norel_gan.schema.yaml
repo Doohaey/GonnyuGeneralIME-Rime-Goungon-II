@@ -7,9 +7,14 @@ translator:
   prism: konny_goungon_II_old_rel_gan
   dictionary_exclude:
     - "哪个"
+    - "天亮"
+    - "太阳"
     - "学校"
     - "小孩子"
     - "敲击"
+    - "时候"
+    - "星星"
+    - "月亮"
     - "极困"
     - "水银"
     - "猪食"
@@ -18,6 +23,7 @@ translator:
     - "花萎"
     - "那个"
     - "那里"
+    - "闪电"
     - "鸟窝"
   user_dict: konny_goungon_old_norel_II
   enable_user_dict: true
@@ -60,9 +66,10 @@ speller:
     - derive/^Gcang$/Ftshang/
     - derive/^Gcat$/Ftshat/
     - derive/^Gcau$/Ftshau/
-    - derive/^Gce$/Ftsher/
     - derive/^Gcei$/Ftsheri/
     - derive/^Gcen$/Ftshern/
+    - derive/^Gceo$/Ftsheo/
+    - derive/^Gceon$/Ftsheon/
     - derive/^Gcet$/Ftshert/
     - derive/^Gco$/Ftsho/
     - derive/^Gcoi$/Ftshoi/
@@ -90,6 +97,8 @@ speller:
     - derive/^Gde$/Fter/
     - derive/^Gdei$/Fteri/
     - derive/^Gden$/Ftern/
+    - derive/^Gdeo$/Fteo/
+    - derive/^Gdeon$/Fteon/
     - derive/^Gdet$/Ftert/
     - derive/^Gdeu$/Fteru/
     - derive/^Gdi$/Fti/
@@ -177,7 +186,6 @@ speller:
     - derive/^Ghat$/Fhat/
     - derive/^Ghau$/Fhau/
     - derive/^Ghe$/Fher/
-    - derive/^Ghen$/Fhern/
     - derive/^Gheo$/Fheo/
     - derive/^Gheon$/Fheon/
     - derive/^Ghet$/Fhert/
@@ -200,11 +208,11 @@ speller:
     - derive/^Gjiang$/Fciang/
     - derive/^Gjiau$/Fciau/
     - derive/^Gjin$/Fcin/
-    - derive/^Gjiok$/Fciok/
+    - derive/^Gjiok$/Fcioh/
     - derive/^Gjiong$/Fciong/
     - derive/^Gjit$/Fcit/
     - derive/^Gjiu$/Fciu/
-    - derive/^Gjiuk$/Fciuk/
+    - derive/^Gjiuk$/Fciuh/
     - derive/^Gjiung$/Fciung/
     - derive/^Gjiê$/Fcie/
     - derive/^Gjiên$/Fcien/
@@ -249,6 +257,7 @@ speller:
     - derive/^Glau$/Flau/
     - derive/^Glei$/Fleri/
     - derive/^Glen$/Flern/
+    - derive/^Gleon$/Fleon/
     - derive/^Glet$/Flert/
     - derive/^Gli$/Fli/
     - derive/^Gliang$/Fliang/
@@ -256,7 +265,7 @@ speller:
     - derive/^Gliong$/Fliong/
     - derive/^Glit$/Flit/
     - derive/^Gliu$/Fliu/
-    - derive/^Gliuk$/Fliuk/
+    - derive/^Gliuk$/Fliuh/
     - derive/^Gliên$/Flien/
     - derive/^Gliêt$/Fliet/
     - derive/^Gliêu$/Flieu/
@@ -354,11 +363,11 @@ speller:
     - derive/^Gqiau$/Fchiau/
     - derive/^Gqin$/Fchin/
     - derive/^Gqio$/Fchio/
-    - derive/^Gqiok$/Fchiok/
+    - derive/^Gqiok$/Fchioh/
     - derive/^Gqiong$/Fchiong/
     - derive/^Gqit$/Fchit/
     - derive/^Gqiu$/Fchiu/
-    - derive/^Gqiuk$/Fchiuk/
+    - derive/^Gqiuk$/Fchiuh/
     - derive/^Gqiung$/Fchiung/
     - derive/^Gqiên$/Fchien/
     - derive/^Gqiêt$/Fchiet/
@@ -372,7 +381,6 @@ speller:
     - derive/^Gsang$/Fsang/
     - derive/^Gsat$/Fsat/
     - derive/^Gsau$/Fsau/
-    - derive/^Gse$/Fser/
     - derive/^Gsei$/Fseri/
     - derive/^Gsen$/Fsern/
     - derive/^Gseo$/Fseo/
@@ -401,9 +409,10 @@ speller:
     - derive/^Gtang$/Fthang/
     - derive/^Gtat$/Fthat/
     - derive/^Gtau$/Fthau/
-    - derive/^Gte$/Fther/
     - derive/^Gtei$/Ftheri/
     - derive/^Gten$/Fthern/
+    - derive/^Gteo$/Ftheo/
+    - derive/^Gteon$/Ftheon/
     - derive/^Gtet$/Fthert/
     - derive/^Gteu$/Ftheru/
     - derive/^Gti$/Fthi/
@@ -451,11 +460,11 @@ speller:
     - derive/^Gxiang$/Fxiang/
     - derive/^Gxiau$/Fxiau/
     - derive/^Gxin$/Fxin/
-    - derive/^Gxiok$/Fxiok/
+    - derive/^Gxiok$/Fxioh/
     - derive/^Gxiong$/Fxiong/
     - derive/^Gxit$/Fxit/
     - derive/^Gxiu$/Fxiu/
-    - derive/^Gxiuk$/Fxiuk/
+    - derive/^Gxiuk$/Fxiuh/
     - derive/^Gxiung$/Fxiung/
     - derive/^Gxiê$/Fxie/
     - derive/^Gxiên$/Fxien/
@@ -471,8 +480,8 @@ speller:
     - derive/^Gyin$/Fin/
     - derive/^Gyit$/Fit/
     - derive/^Gyiu$/Fiu/
-    - derive/^Gyiuk$/Fiuk/
-    - derive/^Gyok$/Fiok/
+    - derive/^Gyiuk$/Fiuh/
+    - derive/^Gyok$/Fioh/
     - derive/^Gyon$/Fion/
     - derive/^Gyong$/Fiong/
     - derive/^Gyung$/Fiung/
@@ -492,6 +501,8 @@ speller:
     - derive/^Gze$/Ftser/
     - derive/^Gzei$/Ftseri/
     - derive/^Gzen$/Ftsern/
+    - derive/^Gzeo$/Ftseo/
+    - derive/^Gzeon$/Ftseon/
     - derive/^Gzet$/Ftsert/
     - derive/^Gzo$/Ftso/
     - derive/^Gzoi$/Ftsoi/
@@ -502,7 +513,7 @@ speller:
     - derive/^Gzou$/Ftsou/
     - derive/^Gzu$/Ftsu/
     - derive/^Gzuei$/Ftsueri/
-    - derive/^Gzuen$/Ftsuern/
+    - derive/^Gzueon$/Ftsueon/
     - derive/^Gzung$/Ftsung/
     - derive/^Gzuon$/Ftsuon/
     - derive/^Gzên$/Ftsen/
