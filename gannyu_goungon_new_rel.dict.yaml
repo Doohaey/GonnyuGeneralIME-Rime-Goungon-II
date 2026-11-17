@@ -3,7 +3,7 @@
 
 ---
 name: gannyu_goungon_new_rel
-version: "1.3.1"
+version: "1.3.3"
 sort: by_weight
 use_preset_vocabulary: false
 ...
@@ -386,8 +386,10 @@ use_preset_vocabulary: false
 互相	Gfu xiang	127955
 互相	hu Gxiong	127955
 互相	hu xiang	127955
+五	Gn	200000
 五	Gng	200000
 五	wu	200000
+五岳	Gn Gngok	127964
 五岳	Gng Gngok	127964
 五岳	Gng yue	127964
 五岳	wu Gngok	127964
@@ -668,6 +670,7 @@ use_preset_vocabulary: false
 作坊	zuo Gfong	123293
 作坊	zuo fang	123293
 你	Gli	200000
+你	Gn	200000
 你	Gng	200000
 你	ni	200000
 佢	Ggiê	200000
@@ -2797,6 +2800,7 @@ use_preset_vocabulary: false
 少年	shao Gyên	121230
 少年	shao nian	121230
 尔	Geo	132455
+尔	Gn	175658
 尔	Gng	175658
 尔	er	175658
 尖	Gjiên	145000
@@ -6362,11 +6366,12 @@ use_preset_vocabulary: false
 盂	yu	90000
 盆	Gpin	120000
 盆	pen	120000
-盈	Gyang	30000
-盈	Gyin	30000
-盈	ying	30000
+盈	Gyang	129842
+盈	Gyin	129842
+盈	ying	129842
 盈下	Gyang Gha	121640
 盈下	Gyang xia	121640
+盈下	Wyin Gha	121640
 盈下	ying Gha	121640
 盈下	ying xia	121640
 益	Gyit	120000
@@ -8798,6 +8803,9 @@ use_preset_vocabulary: false
 貂	diao	95000
 貌	Gmau	120000
 貌	mao	120000
+賸	Gyang	129842
+賸	Gyin	129842
+賸	sheng	129842
 贝	Gbi	120000
 贝	bei	120000
 贞	Gden	120000

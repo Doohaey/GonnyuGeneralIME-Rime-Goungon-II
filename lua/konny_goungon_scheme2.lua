@@ -278,6 +278,7 @@ return {
     ["mên"] = "men",
     ["mêt"] = "met",
     ["mêu"] = "meu",
+    ["n"] = "n",
     ["ng"] = "ng",
     ["nga"] = "nga",
     ["ngai"] = "ngai",
