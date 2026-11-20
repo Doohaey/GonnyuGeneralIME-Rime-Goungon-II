@@ -387,7 +387,7 @@ use_preset_vocabulary: false
 互相	hu Gxiong	127955
 互相	hu xiang	127955
 五	Gn	200000
-五	Gng	200000
+五	Gng	106905
 五	wu	200000
 五岳	Gn Gngok	127964
 五岳	Gng Gngok	127964
@@ -459,9 +459,9 @@ use_preset_vocabulary: false
 什啊	Gset Ga	100000
 什啊	shen Ga	100000
 什啊	shen a	100000
-什物	Gset Gwet	125163
+什物	Gset Gwut	125163
 什物	Gset wu	125163
-什物	shi Gwet	125163
+什物	shi Gwut	125163
 什物	shi wu	125163
 仁	Glen	120000
 仁	ren	120000
@@ -671,7 +671,7 @@ use_preset_vocabulary: false
 作坊	zuo fang	123293
 你	Gli	200000
 你	Gn	200000
-你	Gng	200000
+你	Gng	119999
 你	ni	200000
 佢	Ggiê	200000
 佢	qu	200000
@@ -1089,7 +1089,8 @@ use_preset_vocabulary: false
 切	qie	200000
 刊	Gkon	120000
 刊	kan	120000
-刎	Gwen	108732
+刎	Gwun	108732
+刎	wen	108732
 刑	Gxin	145000
 刑	xing	145000
 划	Gfa	100000
@@ -1294,7 +1295,7 @@ use_preset_vocabulary: false
 勾当	Ggiêu dang	128028
 勾当	gou Gdong	128028
 勾当	gou dang	128028
-勿	Gwet	120000
+勿	Gwut	120000
 勿	wu	120000
 匀	Geon	120000
 匀	yun	120000
@@ -1744,7 +1745,8 @@ use_preset_vocabulary: false
 吹捧	Gceo peng	121495
 吹捧	chui Gpung	121495
 吹捧	chui peng	121495
-吻	Gwen	145000
+吻	Gwun	145000
+吻	wen	145000
 吼	Ghêu	176530
 吼	hou	176530
 吼叫	Ghêu Gjiêu	124431
@@ -2801,7 +2803,7 @@ use_preset_vocabulary: false
 少年	shao nian	121230
 尔	Geo	132455
 尔	Gn	175658
-尔	Gng	175658
+尔	Gng	50753
 尔	er	175658
 尖	Gjiên	145000
 尖	jian	145000
@@ -3258,8 +3260,10 @@ use_preset_vocabulary: false
 强	qiang	165000
 弼	Gpit	90000
 弼	bi	90000
-弼马温	Gpit Gma Gwen	129381
-弼马温	bi Gma Gwen	129381
+弼马温	Gpit Gma Gwun	129381
+弼马温	Gpit Gma wen	129381
+弼马温	bi Gma Gwun	129381
+弼马温	bi Gma wen	129381
 弼马温	bi ma wen	129381
 归	Ggui	200000
 当	Gdong	200000
@@ -4366,7 +4370,8 @@ use_preset_vocabulary: false
 整	Gden	120000
 整	zheng	120000
 敷	Gfu	120000
-文	Gwen	200000
+文	Gwun	200000
+文	wen	200000
 斋	Gzai	120000
 斋	zhai	120000
 斑	Gban	120000
@@ -4409,7 +4414,9 @@ use_preset_vocabulary: false
 新余	Gxin Geo	100000
 新余	Gxin yu	100000
 新余	xin yu	100000
-新闻	Gxin Gwen	127406
+新闻	Gxin Gwun	127406
+新闻	Gxin wen	127406
+新闻	xin wen	127406
 新鲜	Gxin Gxiên	122392
 新鲜	Gxin xian	122392
 新鲜	xin xian	122392
@@ -5627,7 +5634,8 @@ use_preset_vocabulary: false
 渡	du	120000
 渣	Gza	120000
 渣	zha	120000
-温	Gwen	200000
+温	Gwun	200000
+温	wen	200000
 港	Ggong	175000
 港	gang	175000
 渴	Gkot	145000
@@ -5979,7 +5987,7 @@ use_preset_vocabulary: false
 牢	lao	145000
 牧	Gmuk	120000
 牧	mu	120000
-物	Gwet	200000
+物	Gwut	200000
 物	wu	200000
 牯	Ggu	90000
 牲	Gsên	120000
@@ -6315,7 +6323,8 @@ use_preset_vocabulary: false
 痹	Gbi	106617
 瘊	Ghêu	71406
 瘊	hou	71406
-瘟	Gwen	120000
+瘟	Gwun	120000
+瘟	wen	120000
 瘦	Gsêu	120000
 瘦	shou	120000
 瘴	Gdong	90000
@@ -6749,7 +6758,8 @@ use_preset_vocabulary: false
 稚	zhi	120000
 稠	Gteu	103696
 稠	chou	103696
-稳	Gwen	125998
+稳	Gwun	125998
+稳	wen	125998
 稻	Gtou	120000
 稻	dao	120000
 稻秆	Gtou Ggon	122570
@@ -7149,7 +7159,8 @@ use_preset_vocabulary: false
 纷	Gfen	145000
 纸	Gdeo	120000
 纸	zhi	120000
-纹	Gwen	120000
+纹	Gwun	120000
+纹	wen	120000
 纺	Gfong	120000
 纺	fang	120000
 纽	Gyiu	120000
@@ -7752,8 +7763,9 @@ use_preset_vocabulary: false
 臣	chen	100000
 自	Gcu	200000
 自	zi	200000
-自刎	Gcu Gwen	121724
-自刎	zi Gwen	121724
+自刎	Gcu Gwun	121724
+自刎	Gcu wen	121724
+自刎	zi Gwun	121724
 自刎	zi wen	121724
 自家	Gcu Gga	100000
 自家	Gcu jia	100000
@@ -8189,7 +8201,7 @@ use_preset_vocabulary: false
 蚀	shi	100000
 蚁	Gyi	120000
 蚊	Gmin	120000
-蚊	Gwen	120000
+蚊	Gwun	120000
 蚊	wen	120000
 蚌	Gpong	120000
 蚌	bang	120000
@@ -9725,8 +9737,13 @@ use_preset_vocabulary: false
 闪电	shan Gtiên	118789
 闪电	shan dian	118789
 闭	Gbi	135000
-问	Gwen	120000
-问问题	Gwen Gwen Gti	126228
+问	Gwun	120000
+问	wen	120000
+问问题	Gwun Gwun Gti	126228
+问问题	Gwun wen Gti	126228
+问问题	wen Gwun Gti	126228
+问问题	wen wen Gti	126228
+问问题	wen wen ti	126228
 闯	Gtong	120000
 闯	chuang	120000
 闰	Gleon	120000
@@ -9758,7 +9775,8 @@ use_preset_vocabulary: false
 闹	Glau	120000
 闹	nao	120000
 闺	Ggui	150000
-闻	Gwen	136980
+闻	Gwun	136980
+闻	wen	136980
 闽	Gmin	120000
 阁	Ggok	120000
 阁	ge	120000

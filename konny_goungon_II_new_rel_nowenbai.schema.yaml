@@ -418,23 +418,23 @@ speller:
     - derive/^Gtên$/Fthen/
     - derive/^Gtêt$/Fthet/
     - derive/^Gtêu$/Ftheu/
-    - derive/^Gwa$/Fua/
-    - derive/^Gwai$/Fuai/
-    - derive/^Gwan$/Fuan/
-    - derive/^Gwang$/Fuang/
-    - derive/^Gwat$/Fuat/
-    - derive/^Gwen$/Fuern/
-    - derive/^Gweon$/Fueon/
-    - derive/^Gwet$/Fuert/
-    - derive/^Gwi$/Fui/
-    - derive/^Gwo$/Fuo/
-    - derive/^Gwong$/Fuong/
-    - derive/^Gwu$/Fu/
-    - derive/^Gwuk$/Fuh/
-    - derive/^Gwung$/Fung/
-    - derive/^Gwêi$/Fuei/
-    - derive/^Gwên$/Fuen/
-    - derive/^Gwêt$/Fuet/
+    - derive/^Gwa$/Fwa/
+    - derive/^Gwai$/Fwai/
+    - derive/^Gwan$/Fwan/
+    - derive/^Gwang$/Fwang/
+    - derive/^Gwat$/Fwat/
+    - derive/^Gweon$/Fweon/
+    - derive/^Gwi$/Fwi/
+    - derive/^Gwo$/Fwo/
+    - derive/^Gwong$/Fwong/
+    - derive/^Gwu$/Fwu/
+    - derive/^Gwuk$/Fwuh/
+    - derive/^Gwun$/Fwun/
+    - derive/^Gwung$/Fwung/
+    - derive/^Gwut$/Fwut/
+    - derive/^Gwêi$/Fwei/
+    - derive/^Gwên$/Fwen/
+    - derive/^Gwêt$/Fwet/
     - derive/^Gxai$/Fxai/
     - derive/^Gxi$/Fxi/
     - derive/^Gxia$/Fxia/
@@ -453,25 +453,25 @@ speller:
     - derive/^Gxiêu$/Fxieu/
     - derive/^Gxyuon$/Fxyon/
     - derive/^Gxyuot$/Fxyot/
-    - derive/^Gya$/Fia/
-    - derive/^Gyak$/Fiah/
-    - derive/^Gyang$/Fiang/
-    - derive/^Gyau$/Fiau/
-    - derive/^Gyi$/Fi/
-    - derive/^Gyin$/Fin/
-    - derive/^Gyit$/Fit/
-    - derive/^Gyiu$/Fiu/
-    - derive/^Gyiuk$/Fiuh/
-    - derive/^Gyok$/Fioh/
-    - derive/^Gyon$/Fion/
-    - derive/^Gyong$/Fiong/
-    - derive/^Gyung$/Fiung/
+    - derive/^Gya$/Fja/
+    - derive/^Gyak$/Fjah/
+    - derive/^Gyang$/Fjang/
+    - derive/^Gyau$/Fjau/
+    - derive/^Gyi$/Fji/
+    - derive/^Gyin$/Fjin/
+    - derive/^Gyit$/Fjit/
+    - derive/^Gyiu$/Fju/
+    - derive/^Gyiuk$/Fjuh/
+    - derive/^Gyok$/Fjoh/
+    - derive/^Gyon$/Fjon/
+    - derive/^Gyong$/Fjong/
+    - derive/^Gyung$/Fjung/
     - derive/^Gyuon$/Fyon/
     - derive/^Gyuot$/Fyot/
-    - derive/^Gyê$/Fie/
-    - derive/^Gyên$/Fien/
-    - derive/^Gyêt$/Fiet/
-    - derive/^Gyêu$/Fieu/
+    - derive/^Gyê$/Fje/
+    - derive/^Gyên$/Fjen/
+    - derive/^Gyêt$/Fjet/
+    - derive/^Gyêu$/Fjeu/
     - derive/^Gza$/Ftsa/
     - derive/^Gzai$/Ftsai/
     - derive/^Gzak$/Ftsah/
